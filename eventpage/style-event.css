@@ -82,7 +82,7 @@ header .navbar a.active{
 
 header .icons a{
     font-size: 3rem;
-    color: black;
+    color: goldenrod;
     padding: 0 1rem;
 }
 
@@ -259,7 +259,7 @@ header .fa-bars{
     height:auto;
     position: absolute;
     display: flex;
-    width: 100%;
+    width: 100vw;
 }
 
 .footer .footer-content{
